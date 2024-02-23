@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @myfireflyfr<br>- 👀 I’m interested in web development, mobile and artificial intelligence<br>- 🌱 I’m currently learning MEVN Stack<br>- 📫 How to reach me ...<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love kitties~<br>
+<br>- 👋 Hi, I’m @myfireflyfr<br>- 👀 I’m interested in web development, mobile and artificial intelligence<br>- 🌱 I’m currently learning MEVN Stack<br>- 📫 How to reach me ...<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love kitties~<br>
 
 
 # 💻 Tech Stack:
